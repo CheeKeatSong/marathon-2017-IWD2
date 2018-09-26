@@ -1,4 +1,4 @@
-# marathon-2017-IWD2
+# Marathon-2017-IWD2
 Marathon Web App
 
 Web Development Class - Group Assignment
