@@ -7,7 +7,9 @@ Web Development Class - Group Assignment
 
 1. Clone the source code.
 
-2. Run on XAMPP.
+2. Make sure it is in xampp/htdocs.
+
+2. Run on XAMPP with apache activated.
 
 ## Features
 
