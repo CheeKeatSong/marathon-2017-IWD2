@@ -1,5 +1,5 @@
 # Marathon-2017-IWD2
-Marathon Web App
+Marathon Web App is an online event site.
 
 Web Development Class - Group Assignment
 
@@ -7,9 +7,9 @@ Web Development Class - Group Assignment
 
 * **Ticketing System**. User can purchase ticket online for the upcoming marathon they love! 
 
-## User Interface
+* **User friendly**. The design is made to be interactive and easy to navigate.
 
-<img src="" width="311" height="571">
+* **Ticket Tracking**. Purchased ticket can be tracked by providing a unique code.
 
 ## Note
 
