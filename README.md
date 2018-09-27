@@ -17,10 +17,6 @@ Web Development Class - Group Assignment
 
 * **Ticket Tracking**. Purchased ticket can be tracked by providing a unique code.
 
-## Tools & Libraries
-
-1. Bootstrap
-
 ## Note
 
 Last update: November 2017
